@@ -975,7 +975,7 @@ public class TheLastSpaceshipThongNguyen extends Application {
                         closeBtn.render(gc);
                         gc.setFill(Color.WHITE);
                         gc.setFont(Font.font("Times New Roman", FontWeight.BOLD, 15));
-                        gc.fillText("Produced by: Tommy Nguyen", 20, 570);
+                        gc.fillText("Produced by: Thong Nguyen", 20, 570);
                         break;
                     case 1: //In-game
                         for (Sprite bullet : bullets) {
